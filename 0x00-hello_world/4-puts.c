@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main . This is a program that uses the puts function
- * Return: 0
+ * main - Using the puts function
+ * Return: 0 (Success)
  */
 int main(void)
 {
