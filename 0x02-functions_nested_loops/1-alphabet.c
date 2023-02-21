@@ -1,8 +1,10 @@
 #include "main.h"
-/*
- * main - printing alphabet
- *
- * Return: 0
+
+/**
+ * print_alphabet - Entry point
+ * Description: a function that prints the alhapbet
+ * in lowercase followed by a new line
+ * Return: void
  */
 void print_alphabet(void)
 {
