@@ -15,7 +15,7 @@ int main(void)
 		char c = str{i};
 
 		_putchar(c);
-		c++;
+		i++;
 	}
 	return (0);
 }
