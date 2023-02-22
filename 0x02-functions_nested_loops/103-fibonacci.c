@@ -2,6 +2,7 @@
 /**
  * main - entry point
  * Description: print even numbers < 4,000,000
+ * 5 below 1024 (excluded), followed by a new line
  * Return: 0
  */
 int main(void)
