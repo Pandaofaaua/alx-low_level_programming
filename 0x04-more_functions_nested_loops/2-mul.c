@@ -4,14 +4,10 @@
  * mul - multiplying two integers
  * @a: first variable
  * @b: second variable
- * Return: 0
+ * Return: a * b
  */
 
 int mul(int a, int b)
 {
-	int a;
-	int b;
-
-	printf("%d\n", a * b);
-	return (0);
+	return (a * b);
 }
