@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
  * main - printing Fizz buzz
@@ -26,7 +26,7 @@ int main(void)
 		}
 		else
 		{
-			printf("%i", i)
+			printf("%i", i);
 		}
 		if (i != 100)
 		{
