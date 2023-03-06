@@ -5,7 +5,7 @@
  * @s: string to be searched
  * @accept: prefix to be measured
  *
- * Return: Number of byte in s which consist 
+ * Return: number of byte in s which consist
  * number of byte in accept
  */
 
